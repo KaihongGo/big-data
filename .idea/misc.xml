@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1009" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/org/example/course/demo1/MyMapper.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2619" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/org/example/course/demo1/LogParser.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="876" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/org/example/course/demo7/MyMapper.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/main/java/org/example/course/demo1/LogCleanJob.java" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

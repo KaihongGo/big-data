@@ -1,0 +1,9 @@
+org/example/course/demo1/MyMapper.class
+org/example/hdfs/HDFSClientTest.class
+org/example/course/demo7/MyMapper.class
+org/example/course/demo1/LogCleanJob.class
+org/example/course/demo1/LogParser.class
+org/example/course/demo1/MyReducer.class
+org/example/course/demo7/PhoneFlowDC.class
+org/example/course/demo7/MyWriterble.class
+org/example/course/demo7/MyReducers.class
